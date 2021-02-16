@@ -1,8 +1,8 @@
 <img width="160px" style="border-radius: 50%" bor src="style/ddab78.jpeg">
 
-# **docsify-demo**
+# **Jant-notes**
 
-- 本文档是作者折腾 ```docsify```以来的学习历程<br>旨在为大家提供一个较完整的docsify框架结构<br>如果本文能为您得到帮助，请给予支持！
+- 本文档是作者以来的学习历程<br>记录了各种学习笔记<br>目前仍在继续补充中！希望能一起学习与交流！
 
 [![stars](https://badgen.net/github/stars/mochazi/docsify-demo?color=4ab8a1)](https://7550547.github.io/docsifydemo)
 [![forks](https://badgen.net/github/forks/mochazi/docsify-demo?color=4ab8a1)](https://7550547.github.io/docsifydemo)
