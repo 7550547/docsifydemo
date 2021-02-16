@@ -4,8 +4,8 @@
 
 - 本文档是作者以来的学习历程<br>记录了各种学习笔记<br>目前仍在继续补充中！希望能一起学习与交流！
 
-[![stars](https://badgen.net/github/stars/7550547/docsifydemo?color=4ab8a1)](https://github.com/7550547/docsifydemo)
-[![forks](https://badgen.net/github/forks/7550547/docsifydemo?color=4ab8a1)](https://github.com/7550547/docsifydemo)
+[![stars](https://badgen.net/github/stars/7550547/docsifydemo?color=blue)]()
+[![forks](https://badgen.net/github/forks/7550547/docsifydemo?color=4ab8a1)]()
 ![](https://img.shields.io/badge/%E6%91%B8%E9%B1%BC-%E7%A8%8B%E5%BA%8F%E5%91%98-green)
 
 [GitHub](https://github.com/7550547/docsifydemo)
