@@ -4,9 +4,6 @@ This is an English Documentation
 Read Online
 ---
 
--  **[Gitee Online](https://mochazi.gitee.io/docsify-demo)** | [Gitee address](https://gitee.com/mochazi/docsify-demo)
--  **[GitHub Online](https://mochazi.github.io/docsify-demo)** | [GitHub address](https://github.com/mochazi/docsify-demo)
-
 ## Write a warning
 > [!WARNING]
 > Write `!WARNING` in`[]`
