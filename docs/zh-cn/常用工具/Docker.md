@@ -24,13 +24,13 @@ Docker 主要解决环境配置问题，它是一种虚拟化技术，对进程�
 
 ![查看源图像](https://th.bing.com/th/id/R99cad29c572e1d47d447f6a56a80cc1f?rik=pPf%2fCudy%2fjhcgQ&riu=http%3a%2f%2fupload-images.jianshu.io%2fupload_images%2f7554120-199ca0bf4a66cbdf.jpg&ehk=94%2fzc99Ca0WfUDqkd4Q8a%2fQZ4FpQVtkaxaZ%2b4K85KCM%3d&risl=&pid=ImgRaw)
 
-## [启动速度](https://s7550547.github.io/docsifydemo/#/zh-cn/常用工具/Docker?id=启动速度)
+### [启动速度](https://s7550547.github.io/docsifydemo/#/zh-cn/常用工具/Docker?id=启动速度)
 
 启动虚拟机需要先启动虚拟机的操作系统，再启动应用，这个过程非常慢；
 
 而启动 Docker 相当于启动宿主操作系统上的一个进程。
 
-## [占用资源](https://7550547.github.io/docsifydemo/#/zh-cn/常用工具/Docker?id=占用资源)
+### [占用资源](https://7550547.github.io/docsifydemo/#/zh-cn/常用工具/Docker?id=占用资源)
 
 虚拟机是一个完整的操作系统，需要占用大量的磁盘、内存和 CPU 资源，一台机器只能开启几十个的虚拟机。
 
@@ -40,31 +40,31 @@ Docker 主要解决环境配置问题，它是一种虚拟化技术，对进程�
 
 除了启动速度快以及占用资源少之外，Docker 具有以下优势：
 
-## [更容易迁移](https://7550547.github.io/docsifydemo/#/zh-cn/常用工具/Docker?id=更容易迁移)
+### [更容易迁移](https://7550547.github.io/docsifydemo/#/zh-cn/常用工具/Docker?id=更容易迁移)
 
 提供一致性的运行环境。已经打包好的应用可以在不同的机器上进行迁移，而不用担心环境变化导致无法运行。
 
-## [更容易维护](https://7550547.github.io/docsifydemo/#/zh-cn/常用工具/Docker?id=更容易维护)
+### [更容易维护](https://7550547.github.io/docsifydemo/#/zh-cn/常用工具/Docker?id=更容易维护)
 
 使用分层技术和镜像，使得应用可以更容易复用重复的部分。复用程度越高，维护工作也越容易。
 
-## [更容易扩展](https://7550547.github.io/docsifydemo/#/zh-cn/常用工具/Docker?id=更容易扩展)
+### [更容易扩展](https://7550547.github.io/docsifydemo/#/zh-cn/常用工具/Docker?id=更容易扩展)
 
 可以使用基础镜像进一步扩展得到新的镜像，并且官方和开源社区提供了大量的镜像，通过扩展这些镜像可以非常容易得到我们想要的镜像。
 
 # [四、使用场景](https://7550547.github.io/docsifydemo/#/zh-cn/常用工具/Docker?id=四、使用场景)
 
-## [持续集成](?id=持续集成)
+### [持续集成](?id=持续集成)
 
 持续集成指的是频繁地将代码集成到主干上，这样能够更快地发现错误。
 
 Docker 具有轻量级以及隔离性的特点，在将代码集成到一个 Docker 中不会对其它 Docker 产生影响。
 
-## [提供可伸缩的云服务](?id=提供可伸缩的云服务)
+### [提供可伸缩的云服务](?id=提供可伸缩的云服务)
 
 根据应用的负载情况，可以很容易地增加或者减少 Docker。
 
-## [搭建微服务架构](https://7550547.github.io/docsifydemo/#/zh-cn/常用工具/Docker?id=搭建微服务架构)
+### [搭建微服务架构](https://7550547.github.io/docsifydemo/#/zh-cn/常用工具/Docker?id=搭建微服务架构)
 
 Docker 轻量级的特点使得它很适合用于部署、维护、组合微服务。
 
@@ -78,10 +78,8 @@ Docker 轻量级的特点使得它很适合用于部署、维护、组合微服�
 
 构建容器时，通过在镜像的基础上添加一个可写层（writable layer），用来保存着容器运行过程中的修改。
 
-![查看源图像](https://pic1.zhimg.com/v2-d83e9ea8fe286cb6ec0701ef30a3f6a3_r.jpg)
-
 ### 其他
-- [Docker命令]( zh-cn/常用工具/Docker命令.md)
+- [Docker命令]( Docker命令.md)
 
   
 
