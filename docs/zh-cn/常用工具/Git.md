@@ -497,7 +497,7 @@ To http://git.oschina.net/yiibai/sample.git
 
 ---
 
-[Learning git branch](https://learngitbranching.js.org/?locale=zh_CN)
-[廖雪峰，git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
-[git工作区，暂存库，版本库](https://www.runoob.com/git/git-workspace-index-repo.html)
+[Learning git branch](https://learngitbranching.js.org/?locale=zh_CN)<br>
+[廖雪峰，git教程](https://www.liaoxuefeng.com/wiki/896043488029600)<br>
+[git工作区，暂存库，版本库](https://www.runoob.com/git/git-workspace-index-repo.html)<br>
 [易百教程](https://www.yiibai.com/git)
