@@ -497,7 +497,23 @@ To http://git.oschina.net/yiibai/sample.git
 
 ---
 
-[Learning git branch](https://learngitbranching.js.org/?locale=zh_CN)<br>
-[廖雪峰，git教程](https://www.liaoxuefeng.com/wiki/896043488029600)<br>
-[git工作区，暂存库，版本库](https://www.runoob.com/git/git-workspace-index-repo.html)<br>
-[易百教程](https://www.yiibai.com/git)
+## Git 使用教程
+
+- [学习 git 分支-可视化学习，超赞 👍](https://learngitbranching.js.org/?demo=&locale=zh_CN)
+- [图解 Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html)
+- [Think like a Git](http://think-like-a-git.net/)
+- [Git教程 廖雪峰](https://www.liaoxuefeng.com/wiki/896043488029600)
+- [Pro Git](https://git-scm.com/book/zh/)
+- [易百教程](https://www.yiibai.com/git)
+
+## Github 的使用
+
+> GitHub是通过Git进行版本控制的软件源代码托管服务平台
+
+- [Github 维基百科](https://zh.wikipedia.org/wiki/GitHub)
+
+- [Github 使用教程图文详解](https://juejin.im/post/5d635670e51d4561e721df15)
+
+- [GitHub 漫游指南](https://github.phodal.com/)
+
+  
