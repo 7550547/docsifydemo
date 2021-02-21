@@ -3,7 +3,7 @@
 在线阅读
 ---
 
-你好！欢迎来到 我的笔记！我之前也笔记本记录了一些东西。但是，我慢慢地发现了笔记本书写的局限性：
+你好！欢迎来到 我的笔记！我之前也曾笔记本记录了一些东西。但是，我慢慢地发现了笔记本书写的局限性：
 
 1. 美观问题，我的字写得~~不太好看~~（难看）
 2. 排版问题，看起来乱糟糟，阅读困难
@@ -23,7 +23,7 @@
 
 如果你在浏览博客的过程中发现了任何问题（如错别字），欢迎前往 **GitHub** 提交 ``Issue``或直接修改相关文件后提交 PR。
 
-另外，本站点[使用 GitHub Pages 持续写作](https://io-oi.me/tech/continuous-writing-with-github-issues/)，源码在 [GitHub](https://github.com/7550547/docsifydemoe) 上，目前通过 [GitHub](https://github.com/7550547/docsifydemo) 进行持续构建、持续部署。
+另外，本站点[使用 GitHub Pages 持续写作](https://io-oi.me/tech/continuous-writing-with-github-issues/)，源码在 [GitHub](https://github.com/7550547/docsifydemo) 上，目前通过 [GitHub](https://github.com/7550547/docsifydemo) 进行持续构建、持续部署。
 
 
 
