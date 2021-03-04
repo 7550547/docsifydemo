@@ -9,8 +9,8 @@
 
 - ☕️Java
     - [基础](zh-cn/Python/base.md)
-    - [函数](zh-cn/Python/func.md)
-    - [对象](zh-cn/Python/object.md)
+    - [推荐书目](zh-cn/Python/推荐书目.md)
+    - [资源页](zh-cn/Python/资源页.md)
 - 🔧常用工具
     - [docker](zh-cn/常用工具/Docker.md)
     - [git](zh-cn/常用工具/Git.md)

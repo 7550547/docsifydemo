@@ -1,14 +1,7 @@
-# C++基础
-这是一段关于C++基础介绍，并不会出现在左边的目录
-
-## 编写HelloWorld输出
-```c++
-#include <iostream>
-using namespace std;
- 
-int main() 
-{
-    cout << "Hello, World!";
-    return 0;
-}
-```
+- [线性表](https://github.com/LRH1993/android_interview/blob/master/data-structure/linear-list.md)
+- [栈和队](https://github.com/LRH1993/android_interview/blob/master/data-structure/stack-queue.md)
+- [树](https://github.com/LRH1993/android_interview/blob/master/data-structure/tree.md)
+- [图](https://github.com/LRH1993/android_interview/blob/master/data-structure/graph.md)
+- [散列查找](https://github.com/LRH1993/android_interview/blob/master/data-structure/hash.md)
+- [排序](https://github.com/LRH1993/android_interview/blob/master/data-structure/sort.md)
+- [海量数据处理](https://github.com/LRH1993/android_interview/blob/master/data-structure/mass_data_processing.md)
