@@ -3,14 +3,14 @@
     - [简介](zh-cn/README.md)
     
 - 👨数据结构与算法
-    - [基础](zh-cn/C++/base.md)
-    - [函数](zh-cn/C++/func.md)
-    - [对象](zh-cn/C++/object.md)
+    - [基础](zh-cn/数据结构和算法/base.md)
+    - [函数](zh-cn/数据结构和算法/func.md)
+    - [对象](zh-cn/数据结构和算法/object.md)
 
 - ☕️Java
-    - [基础](zh-cn/Python/base.md)
-    - [推荐书目](zh-cn/Python/推荐书目.md)
-    - [资源页](zh-cn/Python/资源页.md)
+    - [基础](zh-cn/Java/base.md)
+    - [推荐书目](zh-cn/Java/推荐书目.md)
+    - [资源页](zh-cn/Java/资源页.md)
 - 🔧常用工具
     - [docker](zh-cn/常用工具/Docker.md)
     - [git](zh-cn/常用工具/Git.md)
