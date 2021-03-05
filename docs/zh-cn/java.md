@@ -24,3 +24,9 @@
 - SpringBoot
 - MyBaits
 
+- [On Java 8](https://lingcoder.github.io/OnJava8/#/)
+- [深入浅出Java多线程](https://redspider.gitbook.io/concurrent/)
+
+- [自学网站](https://how2j.cn/)
+- [搜云库](https://tech.souyunku.com/)
+- [奇客谷](https://www.qikegu.com/)
